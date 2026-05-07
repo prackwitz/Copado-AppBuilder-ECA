@@ -13,6 +13,6 @@
   "name": "AppBuilder-Phil-ECA",
   "namespace": "copadoai",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "59.0",
+  "sourceApiVersion": "66.0",
   "packageAliases": {}
 }
