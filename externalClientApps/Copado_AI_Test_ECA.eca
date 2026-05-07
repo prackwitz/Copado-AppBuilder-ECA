@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>pr@copado.com</contactEmail>
+    <distributionState>Local</distributionState>
+    <isProtected>false</isProtected>
+    <label>Copado AI Test ECA</label>
+    <orgScopedExternalApp>00D8e000000K6SA:Copado_AI_Test_ECA</orgScopedExternalApp>
+</ExternalClientApplication>
