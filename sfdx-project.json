@@ -1,0 +1,18 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "AppBuilder Phil ECA",
+      "versionName": "Beta 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "ancestorVersion": "HIGHEST",
+      "versionDescription": "AppBuilder Phil ECA package"
+    }
+  ],
+  "name": "AppBuilder-Phil-ECA",
+  "namespace": "copado_know1",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {}
+}
