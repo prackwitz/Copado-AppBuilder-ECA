@@ -2,7 +2,7 @@
 <ExtlClntAppGlobalOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <callbackUrl>https://copado-ee-appbuilder-frontend-staging-338139303.us-central1.run.app/api/oauth/callback/custom/salesforce</callbackUrl>
     <consumerKey>3MVG9IXUyidRC0l2kHxz70_Xu7qdXz_eo_RRhPuAE5uzBmzeQSBi8JBMZH02k1CU_LKW5C78ElJD8GkOwrLYE</consumerKey>
-    <externalClientApplication>copado_know1__Copado_AI_Test_ECA</externalClientApplication>
+    <externalClientApplication>copadoai__Copado_AI_Test_ECA</externalClientApplication>
     <isClientCredentialsFlowEnabled>false</isClientCredentialsFlowEnabled>
     <isCodeCredFlowEnabled>true</isCodeCredFlowEnabled>
     <isCodeCredPostOnly>false</isCodeCredPostOnly>
