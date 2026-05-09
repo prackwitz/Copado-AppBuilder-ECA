@@ -8,3 +8,5 @@ package.xml
 # LWC Jest
 **/.eslintrc.json
 **/__tests__/**
+force-app/main/default/extlClntAppGlobalOauthSets/**
+force-app/main/default/extlClntAppOauthPolicies/ECA_PKCE_oauthPlcy.ecaOauthPlcy-meta.xml
