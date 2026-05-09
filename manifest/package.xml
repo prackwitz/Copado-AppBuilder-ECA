@@ -26,7 +26,7 @@
 		<members>Add_Knowledge_Set_to_AI_Agent</members>
 		<members>Create_Knowledge_Set_Version</members>
 		<members>Manage_KnowledgeSet_Permissions</members>
-		<name>Flows</name>
+		<name>Flow</name>
 	</types>
 	<types>
 		<members>AI_Agent__c</members>
@@ -44,5 +44,17 @@
 		<members>cloudStorageViewer</members>
 		<name>LightningComponentBundle</name>
 	</types>
-	<version>59.0</version>
+	<types>
+		<members>Copado_AI_Test_ECA</members>
+		<name>ExternalClientApplication</name>
+	</types>
+	<types>
+		<members>Copado_AI_Test_ECA_glbloauth</members>
+		<name>ExtlClntAppGlobalOauthSettings</name>
+	</types>
+	<types>
+		<members>metadata/extlClntAppOauthPolicies/Copado_AI_Test_ECA_oauthPlcy</members>
+		<name>ExtlClntAppOauthConfigurablePolicies</name>
+	</types>
+	<version>66.0</version>
 </Package>
