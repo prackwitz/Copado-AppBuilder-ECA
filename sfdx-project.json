@@ -4,9 +4,9 @@
       "path": "force-app",
       "default": true,
       "package": "AppBuilder Phil ECA",
-      "versionName": "Beta 0.3",
-      "versionNumber": "0.3.0.NEXT",
-      "ancestorVersion": "0.3.0",
+      "versionName": "Beta 0.4",
+      "versionNumber": "0.4.0.1",
+      "ancestorVersion": "0.3.0.1",
       "versionDescription": "AppBuilder Phil ECA package"
     }
   ],
