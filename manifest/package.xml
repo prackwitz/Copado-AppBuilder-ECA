@@ -1,59 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
 	<types>
-		<members>AIAgentChatService</members>
-		<members>AIAgentChatServiceTest</members>
-		<members>AIAgentService</members>
-		<members>AIAgentServiceTest</members>
-		<members>AIdataStorageService</members>
-		<members>AIdataStorageServiceTest</members>
-		<members>KnowledgeSetService</members>
-		<members>KnowledgeSetServiceTest</members>
-		<members>MockHttpResponseGenerator</members>
-		<name>ApexClass</name>
-	</types>
-	<types>
-		<members>Copado_AI</members>
-		<name>ConnectedApp</name>
-	</types>
-	<types>
-		<members>Knowledge_Set_Record_Page</members>
-		<members>AI_Agent_Record_Page</members>
-		<name>FlexiPage</name>
-	</types>
-	<types>
-		<members>Manage_AI_Agent_Knowledge_Sets</members>
-		<members>Add_Knowledge_Set_to_AI_Agent</members>
-		<members>Create_Knowledge_Set_Version</members>
-		<members>Manage_KnowledgeSet_Permissions</members>
-		<name>Flow</name>
-	</types>
-	<types>
-		<members>AI_Agent__c</members>
-		<name>CustomObject</name>
-	</types>
-	<types>
-		<members>AI_Agent__c.Agent_Context__c</members>
-		<members>AI_Agent__c.Retrieve_Context_Size__c</members>
-		<name>CustomField</name>
-	</types>
-	<types>
-		<members>chatContainer</members>
-		<members>chatMessage</members>
-		<members>checkboxButton</members>
-		<members>cloudStorageViewer</members>
-		<name>LightningComponentBundle</name>
-	</types>
-	<types>
-		<members>Copado_AI_Test_ECA</members>
+		<members>Copado_AppBuilder_ECA</members>
 		<name>ExternalClientApplication</name>
 	</types>
 	<types>
-		<members>Copado_AI_Test_ECA_glbloauth</members>
+		<members>Copado_AppBuilder_ECA_glbloauth</members>
 		<name>ExtlClntAppGlobalOauthSettings</name>
 	</types>
 	<types>
-		<members>metadata/extlClntAppOauthPolicies/Copado_AI_Test_ECA_oauthPlcy</members>
+		<members>metadata/extlClntAppOauthPolicies/Copado_AppBuilder_ECA_oauthPlcy</members>
 		<name>ExtlClntAppOauthConfigurablePolicies</name>
 	</types>
 	<version>66.0</version>
