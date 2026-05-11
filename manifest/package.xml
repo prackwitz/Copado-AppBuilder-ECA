@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-	<types>
-		<members>Copado_AppBuilder_ECA_2</members>
-		<name>ExternalClientApplication</name>
-	</types>
-	<types>
-		<members>Copado_AppBuilder_ECA_2_glbloauth</members>
-		<name>ExtlClntAppGlobalOauthSettings</name>
-	</types>
-	<types>
-		<members>Copado_AppBuilder_ECA_2_oauthPlcy</members>
-		<name>ExtlClntAppOauthConfigurablePolicies</name>
-	</types>
-	<version>66.0</version>
+  <types>
+    <members>Copado_AppBuilder_ECA_2</members>
+    <name>ExternalClientApplication</name>
+  </types>
+  <types>
+    <members>Copado_AppBuilder_ECA_2_oauth</members>
+    <name>ExtlClntAppOauthSettings</name>
+  </types>
+  <version>66.0</version>
 </Package>

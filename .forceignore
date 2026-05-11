@@ -1,3 +1,5 @@
+# Exclude unsupported ExtlClntAppOauthPolicies
+force-app/main/default/extlClntAppOauthPolicies/*
 
 #
 package.xml
@@ -9,4 +11,6 @@ package.xml
 **/.eslintrc.json
 **/__tests__/**
 force-app/main/default/extlClntAppGlobalOauthSets/**
+force-app/main/default/extlClntAppGlobalOauthSets/*
+**/ExtlClntAppGlobalOauthSettings*
 force-app/main/default/extlClntAppOauthPolicies/ECA_PKCE_oauthPlcy.ecaOauthPlcy-meta.xml

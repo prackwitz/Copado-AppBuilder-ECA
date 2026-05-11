@@ -1,13 +1,12 @@
 {
   "packageDirectories": [
     {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
       "path": "force-app",
       "default": true,
       "package": "AppBuilder ECA",
-      "versionName": "0.1",
-      "versionNumber": "0.1.0.0",
-      "ancestorVersion": "NONE",
-      "versionDescription": "AppBuilder ECA package"
+      "versionDescription": "AppBuilder ECA managed package"
     }
   ],
   "name": "AppBuilder-ECA",
@@ -15,5 +14,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "66.0",
   "packageAliases": {
+    "AppBuilder ECA": "0Hoa500000038gzCAA",
+    "AppBuilder ECA@0.1.0-1": "04ta500000E2MkLAAV"
   }
 }
