@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ExtlClntAppGlobalOauthSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <callbackUrl>https://copado-ee-appbuilder-frontend-staging-338139303.us-central1.run.app/api/oauth/callback/custom/salesforce</callbackUrl>
-    <externalClientApplication>Copado_AppBuilder_ECA</externalClientApplication>
+    <externalClientApplication>Copado_AppBuilder_ECA_2</externalClientApplication>
     <isClientCredentialsFlowEnabled>false</isClientCredentialsFlowEnabled>
     <isCodeCredFlowEnabled>false</isCodeCredFlowEnabled>
     <isCodeCredPostOnly>false</isCodeCredPostOnly>
@@ -11,8 +11,8 @@
     <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
     <isPkceRequired>false</isPkceRequired>
     <isRefreshTokenRotationEnabled>false</isRefreshTokenRotationEnabled>
-    <isSecretRequiredForRefreshToken>true</isSecretRequiredForRefreshToken>
-    <isSecretRequiredForTokenExchange>true</isSecretRequiredForTokenExchange>
+    <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+    <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
     <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
     <label>Copado_AppBuilder_ECA_glbloauth</label>
     <shouldRotateConsumerKey>false</shouldRotateConsumerKey>

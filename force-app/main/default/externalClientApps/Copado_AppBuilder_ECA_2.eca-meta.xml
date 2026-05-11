@@ -3,5 +3,6 @@
     <contactEmail>pr@copado.com</contactEmail>
     <distributionState>Packaged</distributionState>
     <isProtected>false</isProtected>
-    <label>Copado AppBuilder ECA</label>
+    <label>Copado AppBuilder ECA 2</label>
+    <orgScopedExternalApp>00Da500001YLskT:Copado_AppBuilder_ECA_2</orgScopedExternalApp>
 </ExternalClientApplication>

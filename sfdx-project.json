@@ -3,22 +3,17 @@
     {
       "path": "force-app",
       "default": true,
-      "package": "AppBuilder Phil ECA",
-      "versionName": "Beta 0.4",
-      "versionNumber": "0.4.0.1",
-      "ancestorVersion": "0.3.0.1",
-      "versionDescription": "AppBuilder Phil ECA package"
+      "package": "AppBuilder ECA",
+      "versionName": "0.1",
+      "versionNumber": "0.1.0.0",
+      "ancestorVersion": "NONE",
+      "versionDescription": "AppBuilder ECA package"
     }
   ],
-  "name": "AppBuilder-Phil-ECA",
-  "namespace": "copadoai",
+  "name": "AppBuilder-ECA",
+  "namespace": "AppBuilderECA",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "66.0",
   "packageAliases": {
-    "AppBuilder Phil ECA": "0HoP70000000SPJKA2",
-    "AppBuilder Phil ECA@0.1.0-1-main": "04tP7000002tN4TIAU",
-    "AppBuilder Phil ECA@0.2.0-1-main": "04tP7000002tSNVIA2",
-    "AppBuilder Phil ECA@0.3.0-1-main": "04tP7000002tqHlIAI",
-    "AppBuilder Phil ECA@0.4.0-1": "04tP7000002tzCzIAI"
   }
 }
